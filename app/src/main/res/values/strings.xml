@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Fourth App</string>
+
+    <string-array name="kelas">
+        <item>-- Choose --</item>
+        <item>MOBILE 1</item>
+        <item>MOBILE 2</item>
+        <item>MOBILE 3</item>
+        <item>MOBILE 4</item>
+        <item>MOBILE 5</item>
+        <item>MOBILE 6</item>
+    </string-array>
+</resources>
